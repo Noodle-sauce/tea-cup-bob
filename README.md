@@ -1,6 +1,6 @@
 # Sample Hardhat Project
 
-###This is a smart contract dapp Tea Cup Bob where you can buy coffee with eth add a comment and your name 
+### This is a smart contract dapp Tea Cup Bob where you can buy coffee with eth add a comment and your name 
 
 Try running some of the following tasks:
 
