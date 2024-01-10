@@ -20,8 +20,8 @@ const Memos = ({ state }) => {
     <>
       {memos.map((memo, index) => (
         <div key={index} className="memo-container">
-          <p>{memo.name}</p>
-          <p>{memo.message}</p>
+          <p>Customer Name: {memo.name}</p>
+          <p>Message: {memo.message}</p>
           <p className="memo-info">
             {new Date(memo.timestamp * 1000).toLocaleString()}
           </p>

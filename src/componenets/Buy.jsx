@@ -26,7 +26,6 @@ const Buy = ({ state }) => {
           Message:
           <input type="text" id="message" className="input-field" />
         </label>
-
         <button type="submit" className="pay-button">
           Pay
         </button>
