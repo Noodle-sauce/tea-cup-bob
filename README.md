@@ -1,15 +1,15 @@
 
-# Tea Cup Bob - Blockchain Chat Dapp
+# *Tea Cup Bob - Blockchain Chat Dapp*
 
 Welcome to Tea Cup Bob, a smart contract decentralized application (dapp) where you can share your thoughts, ideas, and secrets on the blockchain through a simple chat board. 
 Everything you express will be securely stored on the blockchain.
 
-### Usage: 
+## *Usage*: 
 To engage with Tea Cup Bob, follow these simple steps:
 
 Visit the Site: https://tea-cup-bob.netlify.app/
 
-### Requirements for Posting Comments:
+### *Requirements for Posting Comments*:
 
 MetaMask extension on your browser
 Some testnet cryptocurrency
